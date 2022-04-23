@@ -108,10 +108,10 @@
 	},
 	"sources": {
 		"Practice Projects/Lottery/lottery.sol": {
-			"keccak256": "0xf47332c1c404d1ff86a8b5712786473e616bb17d712bd0de61bffe89bb3e8d3e",
+			"keccak256": "0xce994924600317201e2b093209d61b8f42c249c1504789975e41823f8c3e283c",
 			"urls": [
-				"bzz-raw://d1997fd57a1a432ae090da4de533d2bb9b26f82839872ba1b747eafa859707f0",
-				"dweb:/ipfs/Qmegypvbt5MasEKhnGfKuabDyajooQfNtfzoBxMQ5Eqtd5"
+				"bzz-raw://fb86996d647fd34190e981b2d7cf74f9367168c00ffdd0f8b82ff9265925ef68",
+				"dweb:/ipfs/QmYr8pao6mnTUx9rNvPSTo5imoEPqSyz8WWdU9fp8Rn9fM"
 			]
 		}
 	},
