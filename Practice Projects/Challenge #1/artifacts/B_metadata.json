@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "x",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "xx",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice Projects/Challenge #1/visibilty.sol": "B"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice Projects/Challenge #1/visibilty.sol": {
+			"keccak256": "0xf97db1de76297d9cdfe3deb560b862da954781061adbaa9880478bd59530e509",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d56e510d09b102ef2ba90ec352ed67c47150ad96d871e084e55ee73c81963139",
+				"dweb:/ipfs/QmbhTbw4ckPBSjcHynqRRasrk83NXFGA3GkWCLxNtgcnph"
+			]
+		}
+	},
+	"version": 1
+}

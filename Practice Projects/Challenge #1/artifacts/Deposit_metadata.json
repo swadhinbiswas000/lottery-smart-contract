@@ -1,0 +1,81 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_depositAdress",
+						"type": "address"
+					}
+				],
+				"name": "sendBalance",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practice Projects/Challenge #1/deposit.sol": "Deposit"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practice Projects/Challenge #1/deposit.sol": {
+			"keccak256": "0x37cdfdb492a1d6c053e8f98f122fed0b87c8d78f586db70c72c14b81480af1fa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b967158bdc8105fe112982ca9682118ddcbf438e4c8115adb111a1068350a9dc",
+				"dweb:/ipfs/Qmc5fK4qA57GNnvmLZWKqgw8AGbAimXv2fMfzM5F7oYg38"
+			]
+		}
+	},
+	"version": 1
+}
