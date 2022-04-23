@@ -28,7 +28,7 @@ contract Lottery{
     }
 
     function pickWinner()public{
-        //require(msg.sender == manager);
+        //require(msg.sender == manager);///
         require(players.length >= 3);
         
         uint r = random();
